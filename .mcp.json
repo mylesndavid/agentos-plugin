@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "agentos": {
+      "type": "http",
+      "url": "https://tryagentos.net/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${AGENTOS_TOKEN}"
+      }
+    }
+  }
+}

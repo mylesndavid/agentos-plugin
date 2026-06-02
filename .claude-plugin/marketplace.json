@@ -1,0 +1,19 @@
+{
+  "name": "agentos",
+  "owner": {
+    "name": "Myles",
+    "email": "mylesnosa@gmail.com"
+  },
+  "metadata": {
+    "description": "AgentOS — persistent workspace memory & agent platform for Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "agentos",
+      "source": "./",
+      "description": "Wiki, tasks, skills, CRM, goals, chats, and curated integrations (Gmail, Slack, GitHub, Drive, Calendar) over one MCP endpoint. Long-term memory across every tool.",
+      "version": "0.1.0"
+    }
+  ]
+}

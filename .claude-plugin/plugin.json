@@ -1,0 +1,19 @@
+{
+  "name": "agentos",
+  "version": "0.1.0",
+  "description": "AgentOS — the user's persistent workspace memory & agent platform. Wiki, tasks, skills, CRM, goals, chats, and curated integrations (Gmail, Slack, GitHub, Drive, Calendar) over one MCP endpoint. Treat it as long-term memory across every tool.",
+  "author": {
+    "name": "Myles",
+    "email": "mylesnosa@gmail.com"
+  },
+  "homepage": "https://tryagentos.net",
+  "keywords": [
+    "memory",
+    "wiki",
+    "tasks",
+    "crm",
+    "agents",
+    "mcp"
+  ],
+  "mcpServers": "./.mcp.json"
+}
